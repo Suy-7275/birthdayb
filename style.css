@@ -13,7 +13,7 @@
 }
 .container > span{
     animation: glow 6s ease-in-out infinite;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: bold;
     justify-content:space-evenly;
 }
